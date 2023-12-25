@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Item = styled.li`
-    line-height: 1.5;
+    line-height: 1.4;
 `;
 
 export const TotalStat = styled.p`
